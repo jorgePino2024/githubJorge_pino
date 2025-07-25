@@ -1,2 +1,2 @@
-# Bienvenido a mi GithubJorge_pino
-Ejercicio s varios
+# Bienvenido a mi Github Jorge_pino
+Ejercicios varios
